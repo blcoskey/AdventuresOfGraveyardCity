@@ -123,7 +123,6 @@
      <Compile Include="Assets\ImportedAssets\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
      <Compile Include="Assets\ImportedAssets\Standard Assets\Utility\FollowTarget.cs" />
      <Compile Include="Assets\ImportedAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAiControl.cs" />
-     <Compile Include="Assets\ImportedAssets\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
      <Compile Include="Assets\ZombieTrigger.cs" />
      <Compile Include="Assets\ImportedAssets\Standard Assets\Utility\ForcedReset.cs" />
      <Compile Include="Assets\ImportedAssets\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
@@ -152,6 +151,8 @@
      <Compile Include="Assets\ImportedAssets\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
      <Compile Include="Assets\ImportedAssets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
      <Compile Include="Assets\ImportedAssets\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
+     <Compile Include="Assets\Lever.cs" />
+     <Compile Include="Assets\Door.cs" />
      <None Include="Assets\ImportedAssets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\ImportedAssets\Small Cave Kit\Documentation\Support.txt" />
      <None Include="Assets\ImportedAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
