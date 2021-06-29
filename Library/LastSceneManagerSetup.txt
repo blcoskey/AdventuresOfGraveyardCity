@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Catacomb1.unity
+- path: Assets/Scenes/GraphicTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
